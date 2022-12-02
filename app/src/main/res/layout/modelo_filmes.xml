@@ -16,7 +16,7 @@
             android:layout_height="170dp"
             android:layout_margin="10dp"
             android:scaleType="centerCrop"
-            android:src="@drawable/Jurassic_Park_poster" />
+            android:src="@drawable/jurassicparkposter" />
 
         <LinearLayout
             android:layout_width="match_parent"

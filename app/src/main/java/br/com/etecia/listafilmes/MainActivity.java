@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
                     "Um terrível ataque a banhistas é o sinal de que a praia da pequena cidade de Amity, na Nova Inglaterra, virou refeitório de um gigantesco tubarão branco.",
                     "Indiana Jones tem como missão resgatar uma pedra roubada por um cruel feiticeiro na Índia. Ele descobre uma mina onde crianças são escravizadas e se depara com cultos de sacrifício humano nas catacumbas de um antigo palácio."};
     String acesso[] = {"4.5", "2.5", "4.0", "4.0", "5.0", "4.5"};
-    int filmes[] = {R.drawable.Jurassic_Park_poster, R.drawable.Hellraiser_1987, R.drawable.Alien_Vs_Predator, R.drawable.prometheus, R.drawable.tubarao, R.drawable.indiana_jones};
+    int filmes[] = {R.drawable.jurassicparkposter, R.drawable.hellraiser, R.drawable.alienvspredator, R.drawable.prometheus, R.drawable.tubarao, R.drawable.indiana_jones};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
